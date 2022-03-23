@@ -55,8 +55,7 @@ listaSelecaoPokemons.forEach(pokemon => {
 })
 
         const audioLapras = new Audio()
-        audioLapras.src="./src/sounds/sound-pikachu.ogg"
-
+        audioLapras.src="./src/sounds/sound-lapras.ogg"
         
         const audioPikachu = new Audio()
         audioPikachu.src="./src/sounds/sound-pikachu.ogg"
